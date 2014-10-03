@@ -1,1 +1,1 @@
-web: bin/hubot -a hipchat --enable-slash
+web: bin/hubot -a hipchat
